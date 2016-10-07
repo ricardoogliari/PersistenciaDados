@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "959493049069",
+    "firebase_url": "https://exemplopersistenciatdc.firebaseio.com",
+    "project_id": "exemplopersistenciatdc",
+    "storage_bucket": "exemplopersistenciatdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959493049069:android:a34764c38e4ed70d",
+        "android_client_info": {
+          "package_name": "persistencia.estudos.com.persistenciadados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959493049069-k8ivdojsgemfd86fj6eefh90n8c9moll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqOLAGGdIYJIqYv9sHGVBCpxulfrBFZw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
